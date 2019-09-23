@@ -1,5 +1,5 @@
 {
-    "name": "testlib",
+    "name": "testClib",
     "version": "0.0.1",
     "repo": "thelittlehan/testClib",
     "description": "Terminal ansi escape goodies",
