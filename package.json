@@ -1,0 +1,9 @@
+{
+    "name": "testlib",
+    "version": "0.0.1",
+    "repo": "thelittlehan/testClib",
+    "description": "Terminal ansi escape goodies",
+    "keywords": ["terminal", "term", "tty", "ansi", "escape", "colors", "console"],
+    "license": "MIT",
+    "src": ["testlib.c", "testlib.h"]
+  }
